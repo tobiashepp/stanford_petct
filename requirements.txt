@@ -5,4 +5,3 @@ nibabel==3.2.1
 matplotlib==3.4.1
 jupyterlab==3.0.16
 nilearn==0.7.1
-p_tqdm==1.16.0
