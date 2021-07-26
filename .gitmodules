@@ -1,0 +1,3 @@
+[submodule "external/torch-mednet"]
+	path = external/torch-mednet
+	url = https://github.com/tobiashepp/torch-mednet
